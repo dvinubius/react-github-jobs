@@ -1,3 +1,9 @@
+# Github Jobs UI
+
+A simple interface to browse jobs from the github jobs API (discontinued since 2021).
+
+# Setup
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
