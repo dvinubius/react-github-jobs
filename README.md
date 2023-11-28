@@ -2,6 +2,12 @@
 
 A simple interface to browse jobs from the github jobs API (discontinued since 2021).
 
+- search
+- pagination
+
+<img width="670" alt="Screenshot 2023-11-28 at 10 54 54" src="https://github.com/dvinubius/react-github-jobs/assets/32189942/ab5634e6-1e54-4017-88a4-46b8171642a5">
+
+
 # Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
